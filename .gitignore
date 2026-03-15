@@ -1,0 +1,11 @@
+### IDE
+.idea/
+*.iml
+
+### Gradle files
+.gradle/
+build/
+
+### Kotlin files
+.kotlin/
+kotlin-js-store/
